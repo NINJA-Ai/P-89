@@ -12,10 +12,11 @@ body
 	}
 
 
-#player1_name , #player2_name
+#player1_name_input , #player2_name_input
 {
 	display: inline-block;
 	margin-left: 20px;
+	width: 400px;
 }
 #word
 {
